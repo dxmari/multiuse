@@ -1,4 +1,5 @@
 'use-strict';
+
 var mue = {};
 (function () {
   mue.encodeAndDecodeSpecialCharacters = function (str = "", type = "en") {  // en for encode & other than en for decode
